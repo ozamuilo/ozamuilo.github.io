@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozamuilo.github.io/DIL/sitemap_index.txt
+Sitemap: https://ozamuilo.github.io/myW/sitemap_index.txt
+Sitemap: https://ozamuilo.github.io/pQb/sitemap_index.txt
+Sitemap: https://ozamuilo.github.io/piV/sitemap_index.txt
